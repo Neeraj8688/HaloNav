@@ -1,0 +1,9 @@
+Flask==2.3.3
+opencv-python==4.8.1.78
+mediapipe==0.10.7
+numpy==1.24.3
+SpeechRecognition==3.10.0
+pyttsx3==2.90
+pyautogui==0.9.54
+pyaudio==0.2.11
+requests==2.31.0
